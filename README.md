@@ -1,5 +1,3 @@
-# Yamagata
-Yamagata three-day trip
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
